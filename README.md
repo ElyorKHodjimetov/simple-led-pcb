@@ -116,9 +116,4 @@ simple-led-pcb/
 
 Этот проект распространяется под лицензией [MIT](LICENSE).
 
----
 
-## Контакты
-
-Автор проекта: *Ваше Имя или Никнейм*  
-GitHub: [https://github.com/ваш-пользователь/simple-led-pcb](https://github.com/ваш-пользователь/simple-led-pcb)
