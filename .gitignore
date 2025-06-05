@@ -1,0 +1,24 @@
+# KiCad temporary & backup files
+*.bak
+*.bck
+*.kicad_pcb-bak*
+*.kicad_sch-bak*
+*.tmp
+*.tmp.*
+
+# Lock files
+*.lck
+
+# Cache and autosave
+fp-info-cache
+*.autosave
+# Older KiCad 5.x:
+*-cache.lib
+
+# Backup folders
+*-backups/
+__pycache__/
+
+# System files
+.DS_Store
+Thumbs.db
